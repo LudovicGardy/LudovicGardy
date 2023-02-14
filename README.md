@@ -4,9 +4,9 @@
 
 My Github space is dedicated to sharing three categories of content:
 <ul>
-  <li>Analyses performed in scientific papers that I publish, with my colleagues, in peer-reviewed journals.</li>
-  <li>Royalty-free or protected but public methods that I have developed, with my colleagues, for a use regulated by a license or not (specified in each repository).</li>
-  <li>Educational content or tips for students or professionals who might need these solutions.</li>
+  <li> 📝 Analyses performed in scientific papers that I publish, with my colleagues, in peer-reviewed journals.</li>
+  <li> 🛠️ Royalty-free or protected but public methods that I have developed, with my colleagues, for a use regulated by a license or not (specified in each repository).</li>
+  <li> 📚 Educational content or tips for students or professionals who might need these solutions.</li>
 </ul>
 
 My current work is mainly focused around the Halyzia project, initiated during my PhD project (2018-2021). Halyzia is a software at the heart of which is integrated an algorithm, partly composed of an artificial intelligence, allowing the automatic detection of pathological brain oscillations in drug-resistant epileptic patients. 
