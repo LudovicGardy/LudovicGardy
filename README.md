@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Ludovic</h1>
-<h3 align="center">...</h3>
+<h1 align="center">It's time to code, it's time to resolve 𝌣</h1>
+
+<h3 align="center">Hello, I'm Ludovic. I am a scientist specialized in neurosciences, passionate about the development of new solutions to help diagnosis. I like to put at the service of clinical projects, the latest technological advances in the field of human-computer interaction, artificial intelligence, transparency of algorithms.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
