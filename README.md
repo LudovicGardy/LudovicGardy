@@ -1,6 +1,6 @@
 <h1 align="center">It's time to innovate, to resolve, to take care 👨🏻‍💻👩🏻‍⚕️🏥</h1>
 
-<p>Hello 👋🏻 I am Ludovic, a neuroscientist passionate about the development of new solutions to help diagnosis and improve healthcare. I like to put at the service of clinical projects, the latest technological advances in the field of human-computer interaction, artificial intelligence, transparency of algorithms.</p>
+<p>Hello 🏻🫡 I am Ludovic, a neuroscientist passionate about the development of new solutions to help diagnosis and improve healthcare. I like to put at the service of clinical projects, the latest technological advances in the field of human-computer interaction, artificial intelligence, transparency of algorithms.</p>
 
 My Github space is dedicated to sharing three categories of content:
 <ul>
