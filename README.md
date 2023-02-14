@@ -53,7 +53,7 @@ The software also includes many features to read and interact with EEGs, 3D imag
 
 ![GHstats](https://github-readme-stats.vercel.app/api?username=LudovicGardy&show_icons=true)
 
-<div class="row">
-  <div class="column">blabla</div>
-  <div class="column">blabla</div>
-</div>
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
