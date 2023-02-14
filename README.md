@@ -21,7 +21,7 @@ The software also includes many features to read and interact with EEGs, 3D imag
 <h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ludovic-gardy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ludovic-gardy" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@halyziaavriomedtech5585" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="halyziaproject" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@halyziaavriomedtech5585" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="halyziaproject" height="30" width="40" /></a><a href='https://svgshare.com/s/9pP' ><img src='https://svgshare.com/i/9pP.svg' title='researchgate' /></a>
 </p>
 
 <h3 align="left">Languages and Tools</h3>
