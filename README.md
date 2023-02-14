@@ -2,6 +2,8 @@
 
 <h3 align="center">Hello, I'm Ludovic. I am a scientist specialized in neurosciences, passionate about the development of new solutions to help diagnosis. I like to put at the service of clinical projects, the latest technological advances in the field of human-computer interaction, artificial intelligence, transparency of algorithms.</h3>
 
+<p>Hello, I'm Ludovic. I am a scientist specialized in neurosciences, passionate about the development of new solutions to help diagnosis. I like to put at the service of clinical projects, the latest technological advances in the field of human-computer interaction, artificial intelligence, transparency of algorithms.</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ludovic-gardy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ludovic-gardy" height="30" width="40" /></a>
