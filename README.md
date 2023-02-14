@@ -49,4 +49,6 @@ The software also includes many features to read and interact with EEGs, 3D imag
 
 </p> 
 
+<h3> Github info </h3>
+
 ![GHstats](https://github-readme-stats.vercel.app/api?username=LudovicGardy&show_icons=true)
