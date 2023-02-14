@@ -46,8 +46,12 @@ The software also includes many features to read and interact with EEGs, 3D imag
   
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a><a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
   
-<a href="https://fr.wikipedia.org/wiki/LaTeX" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/file-icons/icons/e6e6e6ac8cb1d91867167c228c00a667f4d47101/svg/LaTeX.svg" alt="pandas" width="40" height="40"/> </a>  
+<a href="https://fr.wikipedia.org/wiki/LaTeX" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/file-icons/icons/e6e6e6ac8cb1d91867167c228c00a667f4d47101/svg/LaTeX.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg" alt="pandas" width="40" height="40"/> </a>  
     
+  
+  
+
+  
 <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> 
  
 </p> 
