@@ -1,8 +1,13 @@
 <h1 align="center">It's time to code, it's time to resolve 𝌣</h1>
 
-<h3 align="center">Hello, I'm Ludovic. I am a scientist specialized in neurosciences, passionate about the development of new solutions to help diagnosis. I like to put at the service of clinical projects, the latest technological advances in the field of human-computer interaction, artificial intelligence, transparency of algorithms.</h3>
-
 <p>Hello, I'm Ludovic. I am a scientist specialized in neurosciences, passionate about the development of new solutions to help diagnosis. I like to put at the service of clinical projects, the latest technological advances in the field of human-computer interaction, artificial intelligence, transparency of algorithms.</p>
+
+My Github space is dedicated to sharing three categories of content:
+<ul>
+  <li>Analyses performed in scientific papers that I publish, with my colleagues, in peer-reviewed journals.</li>
+  <li>Royalty-free or protected but public methods that I have developed, with my colleagues, for a use regulated by a license or not (specified in each repository).</li>
+  <li>Educational content or tips for students or professionals who might need these solutions.</li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
