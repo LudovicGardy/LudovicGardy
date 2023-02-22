@@ -9,7 +9,7 @@ Hello 🫡 I am Ludovic, a neuroscientist working as a research engineer to deve
 <p> My Github space is dedicated to sharing three categories of content: </p>
 <ul>
   <li> 📝 Analyses performed in scientific papers that I publish, with my colleagues, in peer-reviewed journals.</li>
-  <li> 🛠️ Royalty-free or protected but public methods that I have developed, with my colleagues, for a use regulated by a license or not (specified in each repository).</li>
+  <li> ⚙️ Royalty-free or protected but public methods that I have developed, with my colleagues, for a use regulated by a license or not (specified in each repository).</li>
   <li> 📚 Educational content or tips for students or professionals who might need these solutions.</li>
 </ul>
 
