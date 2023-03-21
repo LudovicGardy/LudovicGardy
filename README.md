@@ -1,9 +1,9 @@
 <h1 align="center">It's time to innovate 👨🏻‍💻 to resolve 🕵🏻 to take care 👩🏻‍⚕️🏥 </h1>
 
 <p>  
-Hello 🫡 I am Ludovic, a neuroscientist working as a research engineer to develop new solutions for healthcare. I like to put at the service of clinical projects, the latest technological advances in the field of human-computer interaction, artificial intelligence and signal processing. I also enjoy sharing experiences and knowledge, through collaborations or educational projects. 
+Hello 🫡 As an enthusiast of biology and technological innovations, my vocation is to apply the most appropriate and efficient methods at the service of projects that make sense. I like to be at the crossroads of the latest technological advances in signal processing, artificial intelligence and human-computer interaction, to act on today's and tomorrow's problems with a significant impact. I also enjoy sharing experiences and knowledge, through collaborations or educational projects. 
 
-🔬 From a scientific point of view, my work is mainly oriented towards the research and treatment of drug-resistant epilepsy. 🛠️ On the technical side, I am specialized in artificial intelligence, signal processing and complex database engineering. I implement the backend and frontend aspects of the tools I work on for an optimized and transparent usability. 🧰 I am interested in many other aspects related to data in general such as multivariate modeling, statistics or data visualization.
+🔬 From a scientific point of view, my work is mainly oriented towards the research and treatment of drug-resistant epilepsy. 🧰 On the technical side, I am specialized in machine learning, time series or images processing, and complex database engineering. I design and implement the backend and frontend aspects of the tools I develop for an optimized and transparent usability. 📊 I am interested in many other aspects related to data in general such as multivariate modeling, statistics or data visualization.
 </p>
 
 <p> My Github space is dedicated to sharing three categories of content: </p>
