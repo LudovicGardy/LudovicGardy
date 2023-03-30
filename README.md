@@ -46,7 +46,7 @@ The software also includes many features to read and interact with EEGs, 3D imag
 <h3> Frontend development </h3>
 <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
 
-<h3 Frameworks </h3>
+<h3> Frameworks </h3>
 <a href="https://fr.reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://fr.wikipedia.org/wiki/React#/media/Fichier:React-icon.svg width="40" height="40"/> </a><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
 
 <h3> Operating systems </h3>
