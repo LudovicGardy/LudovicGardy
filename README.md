@@ -1,4 +1,4 @@
-<h1 align="center">Bridging code and data for strategic innovation 👨🏻‍💻🌉🔬</h1>
+<h1 align="center">Bridging Code and Data for Strategic Innovation 👨🏻‍💻🌉🔬</h1>
 
 <h2>Hello 🫡</h2>
 
