@@ -1,6 +1,6 @@
 <h1 align="center">It's time to innovate 👨🏻‍💻 to resolve 🕵🏻 to take care 👩🏻‍⚕️🏥 </h1>
 
-<p>Hello 🫡</p>
+<h2>Hello 🫡</h2>
 
 <p>As an enthusiast of biology and technological innovation, I'm devoted to applying the most effective methods to meaningful projects. My expertise lies at the intersection of the latest advancements in signal processing, artificial intelligence and human-computer interaction. I actively contribute to addressing present and future challenges, making a significant impact. I also greatly enjoy sharing experiences and knowledge, either through collaborations or educational initiatives.</p>
 
