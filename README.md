@@ -1,4 +1,4 @@
-<h1 align="center">It's time to innovate 👨🏻‍💻 to resolve 🕵🏻 to take care 👩🏻‍⚕️🏥 </h1>
+<h1 align="center">Bridging Code and Data for Strategic Innovation 👨🏻‍💻🌉🔬</h1>
 
 <h2>Hello 🫡</h2>
 
