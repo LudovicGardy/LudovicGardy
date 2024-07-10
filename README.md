@@ -3,11 +3,16 @@
 <h2>Hello 🫡</h2>
 
 <p>
-Data Scientist | Seasoned freelance Data Engineer, I specialize in transforming data into strategic solutions for businesses. I developed my curriculum with a vision and a strategy: to develop the highest level of scientific culture and technical skills to act on data at different levels, with precision and surgical efficiency.
+Freelance Data Scientist specializing in transforming data into strategic business solutions. My journey has been driven by a clear vision: to cultivate a high level of scientific knowledge and technical expertise, enabling precise and efficient data manipulation at all levels.
 
-My product-oriented vision ensures the delivery of solutions that meet pragmatic constraints based on your needs, available financing, emergencies, scalability and regulatory issues specific to your sector. I do not prioritize the value of tasks and projects: studying trends and KPIs or developing cutting-edge technological solutions have, in my eyes, the same exploitation and development potential.
+With a product-oriented mindset, I deliver solutions that address real-world constraints, including budget limitations, urgent needs, scalability challenges, and industry-specific regulations.
 
-A lifelong learner and a man of action at the same time, I attach as much importance to technical excellence as to the maintainability and documentation of the solutions I develop. The quality of our relationship, my deliverables and your return on investment are at the heart of my priorities.
+I seek value in data regardless of its complexity. Whether analyzing simple trends, optimizing data infrastructure, or developing advanced technological solutions, I see equal potential for impact and value creation.
+
+As a lifelong learner and proactive professional, I prioritize both the technical excellence and the maintainability of the solutions I develop. I am committed to the quality of our collaboration, the deliverables I provide, and ensuring a high return on investment for your projects.
 </p>
 
 <p>Find more info on my <a href="https://www.sotisanalytics.com">website</a> or <a href="https://www.linkedin.com/in/ludovic-gardy/">LinkedIn</a>.</p>
+
+
+
