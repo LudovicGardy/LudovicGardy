@@ -2,7 +2,7 @@
 
 Freelance Data Scientist dedicated to converting data into strategic business insights. My professional journey is fueled by a commitment to advanced scientific knowledge and technical proficiency, ensuring precise and efficient data handling at all levels.
 
-Initially serving public health research, I spent several years developing software that combines AI and interactive data engineering and visualization (Ladybird | Halyzia©), now patented ([Brevet: FR3128111](https://data.inpi.fr/brevets/FR3128111)) and utilized by a French deep-tech startup (@Avrio MedTech). 
+Initially serving public health research, I spent several years developing software that combines AI with data engineering and interactive visualization (Ladybird | Halyzia©), now patented ([Brevet: FR3128111](https://data.inpi.fr/brevets/FR3128111)) and utilized by a French deep-tech startup (@Avrio MedTech). 
 
 Over the years, I have learned to blend versatility with deep expertise to deliver impactful solutions to unsolved problems and optimize existing ones for greater efficiency. With extensive experience on numerous projects both before and after founding my company (@Sotis A.I.), I now operate as a freelance data scientist, providing expertise to businesses in need. 
 
