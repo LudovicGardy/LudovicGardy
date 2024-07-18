@@ -76,8 +76,8 @@ A brief summary of some publicly shareable projects I have developed is presente
       <td><strong><a href="https://github.com/LudovicGardy/app_business_status">Business Status</a></strong><br>If you are a French entrepreneur, you have likely wondered about the best legal status for your company or the one that maximizes your income. This app offers a guide to different legal structures, comparing benefits and tax implications, and provides personalized recommendations</td>
     </tr>
     <tr>
-      <td><img src="images/section2/image4.png" alt="Mon Epargne" style="width:100%;height:auto;object-fit:fill; display:block;"></td>
-      <td><strong><a href="https://github.com/LudovicGardy/app_asset_management">Mon Epargne</a></strong><br>A financial management application that helps users track and optimize their savings and investments​.</td>
+      <td><img src="images/section2/image4.png" alt="Asset " style="width:100%;height:auto;object-fit:fill; display:block;"></td>
+      <td><strong><a href="https://github.com/LudovicGardy/app_asset_management">Asset Management</a></strong><br>A financial management application that helps users track and optimize their savings and investments​.</td>
     </tr>
     <tr>
       <td><img src="images/section2/image6.png" alt="Team Picker" style="width:100%;height:auto;object-fit:fill; display:block;"></td>
