@@ -118,7 +118,7 @@ A brief summary of some publicly shareable projects I have developed is presente
   </thead>
   <tbody>
     <tr>
-      <td><img src="images/section4/image1.png" alt="webapp_sotisanalytics_front" style="width:100%; height:auto;object-fit:cover;display: block;"></td>
+      <td><img src="images/section4/image2.png" alt="webapp_sotisanalytics_front" style="width:100%; height:auto;object-fit:cover;display: block;"></td>
       <td><strong><a href="https://github.com/LudovicGardy/webapp_sotisanalytics_front">Sotis Analytics Frontend</a></strong><br>This repository contains the code for the frontend of the Sotis Analytics website, providing the user interface and interaction elements.</td>
     </tr>
     <tr>
