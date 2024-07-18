@@ -128,6 +128,7 @@ A brief summary of some publicly shareable projects I have developed is presente
   </tbody>
 </table>
 
-## Contact
-
-Pour plus d'informations, visitez mon [site web](https://www.sotisanalytics.com) ou mon [LinkedIn](https://www.linkedin.com/in/ludovic-gardy).
+## Author
+- LinkedIn: [Ludovic Gardy](https://www.linkedin.com/in/ludovic-gardy/)
+- Website: [Sotis A.I.](https://www.sotisanalytics.com)
+- Doctoral thesis: [PDF](http://thesesups.ups-tlse.fr/5164/1/2021TOU30190.pdf)
