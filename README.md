@@ -1,4 +1,4 @@
-#  </span> <span style="color: rgb(200,150,250);">Ludovic G.</span> | Data Science for Strategic Innovation
+# <span style="color: rgb(200,150,250);">Ludovic G.</span> | Data Science for Strategic Innovation
 
 Freelance Data Scientist dedicated to converting data into strategic business insights. My professional journey is fueled by a commitment to advanced scientific knowledge and technical proficiency, ensuring precise and efficient data handling at all levels.
 
@@ -30,7 +30,6 @@ A brief summary of some publicly shareable projects I have developed is presente
   <tr>
     <td style="padding: 0; margin: 0;"><img src="images/section1/image6.png" alt="ladybird_converter_BIDS" style="width:100%;height:auto;object-fit:fill; display:block;"></td>
     <td><strong><a href="https://github.com/LudovicGardy/ladybird_converter_BIDS">Ladybird BIDS Converter</a></strong><br>Data Engineering tool that converts EEG data into a <a href="https://bids.neuroimaging.io/">BIDS-like</a> structure to standardize the format and nomenclature of clinical EEG data from Neuralynx and Micromed systems​. More information about BIDS structure here.</td>
-
   </tr>
   <tr>
     <td style="padding: 0; margin: 0;"><img src="images/section1/image3.jpg" alt="ladybird_performance_steps" style="width:100%;height:auto;object-fit:fill; display:block;"></td>
@@ -54,27 +53,27 @@ A brief summary of some publicly shareable projects I have developed is presente
     <th style="width: 75%;">Description</th>
   </tr>
   <tr>
-    <td style="padding: 0; margin: 0;"><img src="images/section2/image1.png" alt="" style="width:100%;height:auto;object-fit:fill; display:block;"></td>
+    <td style="padding: 0; margin: 0;"><img src="images/section2/image1.png" alt="Ladybird 3D Medical Visualizer - Standalone Version" style="width:100%;height:auto;object-fit:fill; display:block;"></td>
     <td><strong><a href="https://github.com/LudovicGardy/ladybird_MRI">Ladybird 3D Medical Visualizer - Standalone Version</a></strong><br>An application to visualize 3D medical images, including MRI and PET scans, with dynamic enhancement features to improve visual analysis​.</td>
   </tr>
   <tr>
-    <td style="padding: 0; margin: 0;"><img src="images/section2/image2.png" alt="app_sotisimmo" style="width:100%;height:auto;object-fit:fill; display:block;"></td>
+    <td style="padding: 0; margin: 0;"><img src="images/section2/image2.png" alt="Sotis Immobilier" style="width:100%;height:auto;object-fit:fill; display:block;"></td>
     <td><strong><a href="https://github.com/LudovicGardy/app_sotisimmo">Sotis Immobilier</a></strong><br>An application designed for French real estate management, providing tools for property listing, analysis, and market insights​.</td>
   </tr>
   <tr>
-    <td style="padding: 0; margin: 0;"><img src="images/section2/image3.jpg" alt="app_lets_have_dinner" style="width:100%;height:100%;"></td>
+    <td style="padding: 0; margin: 0;"><img src="images/section2/image3.jpg" alt="Let's Dine" style="width:100%;height:auto;"></td>
     <td><strong><a href="https://github.com/LudovicGardy/app_lets_have_dinner">Let's Dine</a></strong><br>A dining recommendation app that suggests meals and restaurants based on the user's geographical location (longitude and latitude).</td>
   </tr>
   <tr>
-    <td style="padding: 0; margin: 0;"><img src="images/section2/image5.png" alt="app_business_status" style="width:100%;height:100%;object-fit:fill; display:block;"></td>
+    <td style="padding: 0; margin: 0;"><img src="images/section2/image5.png" alt="Business Status" style="width:100%;height:auto;object-fit:fill; display:block;"></td>
     <td><strong><a href="https://github.com/LudovicGardy/app_business_status">Business Status</a></strong><br>If you are a French entrepreneur, you have likely wondered about the best legal status for your company or the one that maximizes your income. This app offers a guide to different legal structures, comparing benefits and tax implications, and provides personalized recommendations</td>
   </tr>
   <tr>
-    <td style="padding: 0; margin: 0;"><img src="images/section2/image4.png" alt="app_asset_management" style="width:100%;height:100%;object-fit:fill; display:block;"></td>
+    <td style="padding: 0; margin: 0;"><img src="images/section2/image4.png" alt="Mon Epargne" style="width:100%;height:auto;object-fit:fill; display:block;"></td>
     <td><strong><a href="https://github.com/LudovicGardy/app_asset_management">Mon Epargne</a></strong><br>A financial management application that helps users track and optimize their savings and investments​.</td>
   </tr>
   <tr>
-    <td style="padding: 0; margin: 0;"><img src="images/section2/image6.png" alt="app_team_picker" style="width:100%;height:100%;object-fit:fill; display:block;"></td>
+    <td style="padding: 0; margin: 0;"><img src="images/section2/image6.png" alt="Team Picker" style="width:100%;height:auto;object-fit:fill; display:block;"></td>
     <td><strong><a href="https://github.com/LudovicGardy/app_team_picker">Team Picker</a></strong><br>An app designed to randomly select a team member from a group, with features to choose the team, add or remove members.</td>
   </tr>
 </table>
@@ -91,7 +90,7 @@ A brief summary of some publicly shareable projects I have developed is presente
     <td><strong><a href="https://github.com/LudovicGardy/epicea_epilepsy">Epicea Epilepsy</a></strong><br>This project compares the clinical, MRI, and EEG features of new-onset status epilepticus and non-inaugural status epilepticus to understand their distinctions and outcomes over one year.</td>
   </tr>
   <tr>
-    <td style="padding: 0; margin: 0;"><img src="images/section3/image2.jpg" alt="meta_analysis_alzheimer" style="width:100%;height:100%;object-fit:fill; display:block;"></td>
+    <td style="padding: 0; margin: 0;"><img src="images/section3/image2.jpg" alt="meta_analysis_alzheimer" style="width:100%;height:auto;object-fit:fill; display:block;"></td>
     <td><strong><a href="https://github.com/LudovicGardy/meta_analysis_alzheimer">Alzhimer Meta Analysis</a></strong><br>This program allows users to reproduce the meta-analysis results from [L. Gardy et al., 2021] and [S. Joubert et al., 2021], or to perform new meta-analyses on other data using the same process and code.</td>
   </tr>
 </table>
@@ -104,11 +103,11 @@ A brief summary of some publicly shareable projects I have developed is presente
     <th style="width: 75%; padding: 0;">Description</th>
   </tr>
   <tr>
-    <td style="padding: 0; margin: 0;"><img src="images/section4/image1.png" alt="webapp_sotisanalytics_front" style="width:100%; height:100%;object-fit:cover;display: block;"></td>
+    <td style="padding: 0; margin: 0;"><img src="images/section4/image1.png" alt="webapp_sotisanalytics_front" style="width:100%; height:auto;object-fit:cover;display: block;"></td>
     <td><strong><a href="https://github.com/LudovicGardy/webapp_sotisanalytics_front">Sotis Analytics Frontend</a></strong><br>This repository contains the code for the frontend of the Sotis Analytics website, providing the user interface and interaction elements.</td>
   </tr>
   <tr>
-    <td style="padding: 0; margin: 0;"><img src="https://via.placeholder.com/100" alt="webapp_sotisanalytics_back" style="width:100%; height:100%;object-fit:cover;display: block;"></td>
+    <td style="padding: 0; margin: 0;"><img src="https://via.placeholder.com/100" alt="webapp_sotisanalytics_back" style="width:100%; height:auto;object-fit:cover;display: block;"></td>
     <td><strong><a href="https://github.com/LudovicGardy/webapp_sotisanalytics_back">Sotis Analytics Backend</a></strong><br>This repository contains the code for the backend of the Sotis Analytics website, handling server-side logic, database interactions, and API endpoints.</td>
   </tr>
 </table>
