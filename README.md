@@ -1,4 +1,4 @@
-# <span style="color: rgb(200,150,250);">Ludovic G.</span> | Data Science for Strategic Innovation
+<span style="color: rgb(200,150,250);">Ludovic G.</span> | Data Science for Strategic Innovation
 
 Freelance Data Scientist dedicated to converting data into strategic business insights. My professional journey is fueled by a commitment to advanced scientific knowledge and technical proficiency, ensuring precise and efficient data handling at all levels.
 
