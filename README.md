@@ -30,13 +30,13 @@ A brief summary of some publicly shareable projects I have developed is presente
       <td><img src="images/section1/image1.png" alt="ladybird_CNN_weights" style="width:100%;height:auto;object-fit:cover;display:block;"></td>
       <td><strong><a href="https://github.com/LudovicGardy/ladybird_CNN_weights">Ladybird CNN Classes Weights</a></strong><br>This project presents a separate study from the Ladybird software, focusing on the results of varying class weights (FR vs non-FR) during CNN training. Note: FR = Fast Ripple, a pathological brain oscillation in epilepsy.</td>
     </tr>
+      <tr>
+      <td><img src="images/section1/image3.jpg" alt="ladybird_performance_steps" style="width:100%;height:auto;object-fit:fill; display:block;"></td>
+      <td><strong><a href="https://github.com/LudovicGardy/ladybird_performance_steps">Ladybird Performances Metrics</a></strong><br>This work assesses the performance of the Ladybird method (CNN model & homemade algorithm), focusing on metrics like Sensitivity, Precision, and F-measure. Comparisons are made across anomaly levels (0, 5, 10, 15 dB) against other detectors on gold standard data.</td>
+    </tr>
     <tr>
       <td><img src="images/section1/image6.png" alt="ladybird_converter_BIDS" style="width:100%;height:auto;object-fit:fill; display:block;"></td>
       <td><strong><a href="https://github.com/LudovicGardy/ladybird_converter_BIDS">Ladybird BIDS Converter</a></strong><br>Data Engineering tool that converts EEG data into a <a href="https://bids.neuroimaging.io/">BIDS-like</a> structure to standardize the format and nomenclature of clinical EEG data from Neuralynx and Micromed systems​. More information about BIDS structure here.</td>
-    </tr>
-    <tr>
-      <td><img src="images/section1/image3.jpg" alt="ladybird_performance_steps" style="width:100%;height:auto;object-fit:fill; display:block;"></td>
-      <td><strong><a href="https://github.com/LudovicGardy/ladybird_performance_steps">Ladybird Performances Metrics</a></strong><br>This work assesses the performance of the Ladybird method (CNN model & homemade algorithm), focusing on metrics like Sensitivity, Precision, and F-measure. Comparisons are made across anomaly levels (0, 5, 10, 15 dB) against other detectors on gold standard data.</td>
     </tr>
     <tr>
       <td><img src="images/section1/image4.png" alt="convolutional_kernel_density_estimation" style="width:100%;height:auto;object-fit:fill; display:block;"></td>
