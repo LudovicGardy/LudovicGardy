@@ -23,7 +23,7 @@ A brief summary of some publicly shareable projects I have developed is presente
   </thead>
   <tbody>
     <tr>
-      <td><img src="images/section1/image2.jpg" alt="ladybird_CNN" style="width:100%;height:auto;object-fit:fill; display:block;"></td>
+      <td><img src="images/section1/image2.1.jpg" alt="ladybird_CNN" style="width:100%;height:auto;object-fit:fill; display:block;"></td>
       <td><strong><a href="https://github.com/LudovicGardy/ladybird_CNN">Ladybird CNN</a></strong><br>This project showcases the algorithm used in the Ladybird software to detect pathological anomalies in epilepsy, with a series of real-world examples. The CNN was trained to recognize these signals on scalograms obtained from intracerebral EEG of epileptic patients. The code in this repository is subject to a patent and thus, no longer fully accessible. Please contact me, or the startup @Avrio MedTech, for more information.</td>
     </tr>
       <tr>
