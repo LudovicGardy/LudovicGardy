@@ -43,7 +43,7 @@ A brief summary of some publicly shareable projects I have developed is presente
       <td><strong><a href="https://github.com/LudovicGardy/convolutional_kernel_density_estimation">Convolutional Kernel Density Estimation</a></strong><br>A method designed for robust data visualization and analysis, using an innovative technique specifically developed for anomaly detection in time series. Baptised "Convolutional Kernel Density Estimation" (CKDE), this approach enhances the detection and analysis of anomalies.</td>
     </tr>
     <tr>
-      <td><img src="images/section1/image5.0.png" alt="colormaps_ReBaD" style="width:100%;height:auto;object-fit:fill; display:block;"></td>
+      <td><img src="images/section1/image5.png" alt="colormaps_ReBaD" style="width:100%;height:auto;object-fit:fill; display:block;"></td>
       <td><strong><a href="https://github.com/LudovicGardy/colormaps_ReBaD">Colormaps ReBaD</a></strong><br>This project provides insightful data visualization tools, focusing on effective colormaps for detecting anomalies in high-frequency electrical signals, such as pathological anomalies in EEG data. Baptised "Referential Based Delineated" (ReBaD), this technique enhances the clarity and accuracy of anomaly detection.</td>
     </tr>
   </tbody>
@@ -73,7 +73,7 @@ A brief summary of some publicly shareable projects I have developed is presente
       <td><strong><a href="https://github.com/LudovicGardy/app_lets_have_dinner">Let's Dine</a></strong><br>A dining recommendation app that suggests meals and restaurants based on the user's geographical location (longitude and latitude).</td>
     </tr>
     <tr>
-      <td><img src="images/section2/image5.png" alt="Business Status" style="width:100%;height:auto;object-fit:fill; display:block;"></td>
+      <td><img src="images/section2/image5.0.png" alt="Business Status" style="width:100%;height:auto;object-fit:fill; display:block;"></td>
       <td><strong><a href="https://github.com/LudovicGardy/app_business_status">Business Status</a></strong><br>If you are a French entrepreneur, you have likely wondered about the best legal status for your company or the one that maximizes your income. This app offers a guide to different legal structures, comparing benefits and tax implications, and provides personalized recommendations. <br><br> 🌐 Use the web app: <a href="https://business-status-583ac98f38cb.herokuapp.com/">business-status.app</a></td>
     </tr>
     <tr>
