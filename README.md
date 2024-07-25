@@ -69,7 +69,7 @@ A brief summary of some publicly shareable projects I have developed is presente
       🌐 Use the web app: <a href="https://sotisimmo.sotisanalytics.com">sotisimmo.app</a></td>
     </tr>
     <tr>
-      <td><img src="images/section2/image3.jpg" alt="Let's Dine" style="width:100%;height:auto;"></td>
+      <td><img src="images/section2/image3.0.png" alt="Let's Dine" style="width:100%;height:auto;"></td>
       <td><strong><a href="https://github.com/LudovicGardy/app_lets_have_dinner">Let's Dine</a></strong><br>A dining recommendation app that suggests meals and restaurants based on the user's geographical location (longitude and latitude).</td>
     </tr>
     <tr>
