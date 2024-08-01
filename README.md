@@ -66,7 +66,7 @@ A brief summary of some publicly shareable projects I have developed is presente
     <tr>
       <td><img src="images/section2/image2.png" alt="Sotis Immobilier" style="width:100%;height:auto;object-fit:fill; display:block;"></td>
       <td><strong><a href="https://github.com/LudovicGardy/app_sotisimmo">Sotis Immobilier</a></strong><br>An application designed for French real estate management, providing tools for property listing, analysis, and market insights​.<br><br>
-      🌐 Use the web app: <a href="https://sotisimmo.sotisanalytics.com">sotisimmo.app</a></td>
+      🌐 Use the web app: <a href="https://immo.sotisanalytics.com">sotisimmo.app</a></td>
     </tr>
     <tr>
       <td><img src="images/section2/image3.0.png" alt="Let's Dine" style="width:100%;height:auto;"></td>
