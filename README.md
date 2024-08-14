@@ -129,7 +129,32 @@ A brief summary of some publicly shareable projects I have developed is presente
   </tbody>
 </table>
 
+## Github Contributions
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/LudovicGardy/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=LudovicGardy&hide_border=true&show_icons=true" alt="LudovicGardy GitHub Stats" /> </a>
+    </td>
+    <td>
+      <a href="https://github.com/LudovicGardy/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LudovicGardy&hide_border=true&langs_count=8&layout=compact" alt="Top Languages" /> </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan=2 align="center">
+      <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=LudovicGardy&hide_border=true&background=f6f8fa&currStreakLabel=000000&date_format=j%20M%5B%20Y%5D" alt="LudovicGardy GitHub Readme Streak Stats" /> </a>
+    </td>
+  </tr>
+</table>
+
+## Github Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=LudovicGardy)](https://github.com/ryo-ma/github-profile-trophy)
+
+<!-- [![Ludovic's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LudovicGardy&theme=tokyo-night)](https://github.com/LudovicGardy/github-readme-activity-graph) -->
+
+
 ## Author
 - LinkedIn: [Ludovic Gardy](https://www.linkedin.com/in/ludovic-gardy/)
 - Website: [Sotis A.I.](https://www.sotisanalytics.com)
 - Doctoral thesis: [PDF](http://thesesups.ups-tlse.fr/5164/1/2021TOU30190.pdf)
+<h6 align="left"><img src="https://komarev.com/ghpvc/?username=LudovicGardy&label=Profile%20views&color=0e75b6&style=flat" alt="chclopes" /><br><i>This counter was added on 14-08-2024</i></h6>
+
