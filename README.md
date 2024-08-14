@@ -156,5 +156,5 @@ A brief summary of some publicly shareable projects I have developed is presente
 - LinkedIn: [Ludovic Gardy](https://www.linkedin.com/in/ludovic-gardy/)
 - Website: [Sotis A.I.](https://www.sotisanalytics.com)
 - Doctoral thesis: [PDF](http://thesesups.ups-tlse.fr/5164/1/2021TOU30190.pdf)
-<h6 align="left"><img src="https://komarev.com/ghpvc/?username=LudovicGardy&label=Profile%20views&color=0e75b6&style=flat" alt="chclopes" /><br><i>This counter was added on 14-08-2024</i></h6>
+<h6 align="left"><img src="https://komarev.com/ghpvc/?username=LudovicGardy&label=COUNTER&color=0e75b6&style=flat" alt="chclopes" /><br><!--<i>This counter was added on 14-08-2024</i>--></h6>
 
