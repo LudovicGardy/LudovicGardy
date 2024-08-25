@@ -10,8 +10,6 @@ Researcher, engineer but above all man of action and perpetual learner, I uncove
 
 A brief summary of some publicly shareable projects I have developed is presented in the sections below.
 
----
-
 ## Projects
 
 ### 🤖 Software, Algorithm & AI
@@ -131,8 +129,6 @@ A brief summary of some publicly shareable projects I have developed is presente
   </tbody>
 </table>
 
----
-
 ## Github Contributions
 <table>
   <tr>
@@ -150,14 +146,11 @@ A brief summary of some publicly shareable projects I have developed is presente
   </tr>
 </table>
 
----
-
 ## Github Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=LudovicGardy)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- [![Ludovic's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LudovicGardy&theme=tokyo-night)](https://github.com/LudovicGardy/github-readme-activity-graph) -->
 
----
 
 ## Author
 - LinkedIn: [Ludovic Gardy](https://www.linkedin.com/in/ludovic-gardy/)
