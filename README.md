@@ -73,7 +73,7 @@ A brief summary of some publicly shareable projects I have developed is presente
       <td><strong><a href="https://github.com/LudovicGardy/app_lets_have_dinner">Let's Dine</a></strong><br>A dining recommendation app that suggests meals and restaurants based on the user's geographical location (longitude and latitude).</td>
     </tr>
     <tr>
-      <td><img src="images/section2/image5.0.png" alt="Business Status" style="width:100%;height:auto;object-fit:fill; display:block;"></td>
+      <td><img src="images/section2/image5.1.png" alt="Business Status" style="width:100%;height:auto;object-fit:fill; display:block;"></td>
       <td><strong><a href="https://github.com/LudovicGardy/app_business_status">Business Status</a></strong><br>If you are a French entrepreneur, you have likely wondered about the best legal status for your company or the one that maximizes your income. This app offers a guide to different legal structures, comparing benefits and tax implications, and provides personalized recommendations. <br><br> 🌐 Use the web app: <a href="https://business-status-583ac98f38cb.herokuapp.com/">business-status.app</a></td>
     </tr>
     <tr>
