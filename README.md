@@ -49,7 +49,37 @@ A brief summary of some publicly shareable projects I have developed is presente
   </tbody>
 </table>
 
-### 📱 Python App
+### 📱 Deployed Python App
+
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="25%">Project</th>
+      <th width="75%">Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img src="images/section2/image1.png" alt="Ladybird 3D Medical Visualizer - Standalone Version" style="width:100%;height:auto;object-fit:fill; display:block;"></td>
+      <td><strong><a href="https://github.com/LudovicGardy/ladybird_MRI">Ladybird 3D Medical Visualizer - Standalone Version</a></strong><br>An application to visualize 3D medical images, including MRI and PET scans, with dynamic enhancement features to improve visual analysis​.<br><br> 🌐 Use the web app: <a href="https://med-viewer-3d-35a20a74b896.herokuapp.com/">med-viewer.app</a></td>
+    </tr>
+    <tr>
+      <td><img src="images/section2/image2.png" alt="Sotis Immobilier" style="width:100%;height:auto;object-fit:fill; display:block;"></td>
+      <td><strong><a href="https://github.com/LudovicGardy/app_sotisimmo">Sotis Immobilier</a></strong><br>An application designed for French real estate management, providing tools for property listing, analysis, and market insights​.<br><br>
+      🌐 Use the web app: <a href="https://immo.sotisanalytics.com">sotisimmo.app</a></td>
+    </tr>
+    <tr>
+      <td><img src="images/section2/image5.2.png" alt="Business Status" style="width:100%;height:auto;object-fit:fill; display:block;"></td>
+      <td><strong><a href="https://github.com/LudovicGardy/app_business_status">Business Status</a></strong><br>If you are a French entrepreneur, you have likely wondered about the best legal status for your company or the one that maximizes your income. This app offers a guide to different legal structures, comparing benefits and tax implications, and provides personalized recommendations. <br><br> 🌐 Use the web app: <a href="https://business-status-583ac98f38cb.herokuapp.com/">business-status.app</a></td>
+    </tr>
+    <tr>
+      <td><img src="images/section2/image6.png" alt="Team Picker" style="width:100%;height:auto;object-fit:fill; display:block;"></td>
+      <td><strong><a href="https://github.com/LudovicGardy/app_team_picker">Team Picker</a></strong><br>An app designed to randomly select a team member from a group, with features to choose the team, add or remove members. <br><br> 🌐 Use the web app: <a href="https://teampicker-a7b18094f808.herokuapp.com">team-picker.app</a></td>
+    </tr>
+  </tbody>
+</table>
+
+### 📱 Non-deployed Python App
 
 <table width="100%">
   <thead>
@@ -61,16 +91,8 @@ A brief summary of some publicly shareable projects I have developed is presente
   <tbody>
     <tr>
       <td><img src="images/section2/image0.1.png" alt="The Game of Life" style="width:100%;height:auto;object-fit:fill; display:block;"></td>
-      <td><strong><a href="https://github.com/LudovicGardy/game_of_life">The Game of Life</a></strong><br>The Game of Life is a cellular automaton created by John Conway, where simple rules determine the evolution of cells on a grid, leading to complex and often unpredictable patterns.
-    </tr></td>
-    <tr>
-      <td><img src="images/section2/image1.png" alt="Ladybird 3D Medical Visualizer - Standalone Version" style="width:100%;height:auto;object-fit:fill; display:block;"></td>
-      <td><strong><a href="https://github.com/LudovicGardy/ladybird_MRI">Ladybird 3D Medical Visualizer - Standalone Version</a></strong><br>An application to visualize 3D medical images, including MRI and PET scans, with dynamic enhancement features to improve visual analysis​.<br><br> 🌐 Use the web app: <a href="https://med-viewer-3d-35a20a74b896.herokuapp.com/">med-viewer.app</a></td>
+      <td><strong><a href="https://github.com/LudovicGardy/game_of_life">The Game of Life</a></strong><br>The Game of Life is a cellular automaton created by John Conway, where simple rules determine the evolution of cells on a grid, leading to complex and often unpredictable patterns.</td>
     </tr>
-    <tr>
-      <td><img src="images/section2/image2.png" alt="Sotis Immobilier" style="width:100%;height:auto;object-fit:fill; display:block;"></td>
-      <td><strong><a href="https://github.com/LudovicGardy/app_sotisimmo">Sotis Immobilier</a></strong><br>An application designed for French real estate management, providing tools for property listing, analysis, and market insights​.<br><br>
-      🌐 Use the web app: <a href="https://immo.sotisanalytics.com">sotisimmo.app</a></td>
     </tr>
     <tr>
       <td><img src="images/section2/image3.0.png" alt="Let's Dine" style="width:100%;height:auto;"></td>
@@ -81,19 +103,12 @@ A brief summary of some publicly shareable projects I have developed is presente
       <td><strong><a href="https://github.com/LudovicGardy/app_immo_sci_vs_perso">SCI Strategy</a></strong><br>This application compares two investment options for purchasing real estate as the president of a company. We compare two options: personal purchase by dividends received from a SASU or professional purchase in Holding + SCI.</td>
     </tr>
     <tr>
-      <td><img src="images/section2/image5.2.png" alt="Business Status" style="width:100%;height:auto;object-fit:fill; display:block;"></td>
-      <td><strong><a href="https://github.com/LudovicGardy/app_business_status">Business Status</a></strong><br>If you are a French entrepreneur, you have likely wondered about the best legal status for your company or the one that maximizes your income. This app offers a guide to different legal structures, comparing benefits and tax implications, and provides personalized recommendations. <br><br> 🌐 Use the web app: <a href="https://business-status-583ac98f38cb.herokuapp.com/">business-status.app</a></td>
-    </tr>
-    <tr>
       <td><img src="images/section2/image4.0.png" alt="Asset " style="width:100%;height:auto;object-fit:fill; display:block;"></td>
       <td><strong><a href="https://github.com/LudovicGardy/app_asset_management">Asset Management</a></strong><br>A financial management application that helps users track and optimize their savings and investments​. </td>
     </tr>
-    <tr>
-      <td><img src="images/section2/image6.png" alt="Team Picker" style="width:100%;height:auto;object-fit:fill; display:block;"></td>
-      <td><strong><a href="https://github.com/LudovicGardy/app_team_picker">Team Picker</a></strong><br>An app designed to randomly select a team member from a group, with features to choose the team, add or remove members. <br><br> 🌐 Use the web app: <a href="https://teampicker-a7b18094f808.herokuapp.com">team-picker.app</a></td>
-    </tr>
   </tbody>
 </table>
+
 
 ### 📊 Inferential Statistics
 
