@@ -65,7 +65,7 @@ A brief summary of some publicly shareable projects I have developed is presente
       🌐 Use the web app: <a href="https://medviewer.sotisai.com">med-viewer.app</a></td>
     </tr>
     <tr>
-      <td><img src="images/section2/image2.png" alt="Sotis Immobilier" style="width:100%;height:auto;object-fit:fill; display:block;"></td>
+      <td><img src="images/section2/image2.0.png" alt="Sotis Immobilier" style="width:100%;height:auto;object-fit:fill; display:block;"></td>
       <td><strong><a href="https://github.com/LudovicGardy/app_sotisimmo">Sotis Immobilier</a></strong><br>An application designed for French real estate management, providing tools for property listing, analysis, and market insights​.<br><br>
       🌐 Use the web app: <a href="https://immo.sotisai.com">sotisimmo.app</a></td>
     </tr>
