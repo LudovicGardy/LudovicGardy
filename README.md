@@ -76,7 +76,7 @@ A brief summary of some publicly shareable projects I have developed is presente
     </tr>
     <tr>
       <td><img src="images/section2/image6.png" alt="Team Picker" style="width:100%;height:auto;object-fit:fill; display:block;"></td>
-      <td><strong><a href="https://github.com/LudovicGardy/app_team_picker">Team Picker</a></strong><br>An app designed to randomly select a team member from a group, with features to choose the team, add or remove members. <br><br> 
+      <td><strong><a href="https://github.com/LudovicGardy/app_teampicker">Team Picker</a></strong><br>An app designed to randomly select a team member from a group, with features to choose the team, add or remove members. <br><br> 
       🌐 Use the web app: <a href="https://teampicker.sotisai.com">team-picker.app</a></td>
     </tr>
   </tbody>
